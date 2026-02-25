@@ -44,15 +44,18 @@ A full-featured food delivery app for customers, riders, and vendors with order 
 ## 📊 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EuniceNzilani&show_icons=true&theme=github_dark" />
+  <!-- Live GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EuniceNzilani&show_icons=true&count_private=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=EuniceNzilani&theme=github_dark" />
+  <!-- Live streak stats -->
+  <img src="https://streak-stats.demolab.com/?user=EuniceNzilani&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuniceNzilani&layout=compact&theme=github_dark" />
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuniceNzilani&layout=compact&count_private=true&theme=github_dark" />
 </p>
 
 ---
@@ -69,3 +72,5 @@ I’m a results-driven **Software Developer** specializing in **React, Flutter, 
 ---
 
 ## 🤝 Let’s Build Something Impactful
+
+My GitHub: [https://github.com/EuniceNzilani](https://github.com/EuniceNzilani)
